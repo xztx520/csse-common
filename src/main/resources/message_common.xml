@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <!-- 系统通用错误消息  -->
+    <message code="9001">{0}不能为空。</message>
+    <message code="9011">{0}不合法。</message>
+    <message code="9005">请输入正确的手机号{0}。</message>
+    <message code="9007">请输入正确的json串。</message>
+    <message code="9006">{0}必须double。</message>
+    <message code="9004">{0}必须数字。</message>
+    <message code="9002">指定长度={0}。</message>
+    <message code="9003">字节数小于{0}。</message>
+    <message code="9012">上传文件必须EXCEL。</message>
+
+</messages>
